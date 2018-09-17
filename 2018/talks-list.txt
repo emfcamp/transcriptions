@@ -1,0 +1,112 @@
+Jenny List: Making And Understanding Real Cider
+Libby Miller: A cheap, remotely posable presence robot using a Raspberry Pi, webRTC and a few servos
+Matt Carroll: Newsveillance
+Rory Mangles: The TIM Project: Building a relay computer from scrap
+Taming Terrain: Sculpting geoscapes from LiDAR
+Julius ter Pelkwijk: SHA2017 - Behind the scenes of a hacker conference
+Barney Livingston: Poetoid Lyricam: A Camera That Takes Poems
+Fearn Bishop: A Tour Through the Visualization Jungle
+Henry Sands: Urban Beekeeping: How to get started
+Muhammad Sayed: How to make a humanoid using a 3D printer, wheelchair, and ROS!
+Eric Drass aka shardcore: The Truth, Post-Truth & Nothing Like The Truth
+Lydia Nicholas: Augmented Hilarity
+Matthew Scroggs: Maths and Video Games
+Dr. Tyr Fothergill: BRAAAAAAAINS: Archaeology and Philosophy of Zombies in Games
+Alistair MacDonald: Deploying a LoRaWAN network
+simon munnery: Adventures in Undertent Heating
+Jo Franchetti: Tweet My Wedding Dress
+EMF 2018 Infrastructure Review
+Scott Pitkethly: Adventures in DIY Electronic Instruments
+Richard Westenra: Actually, it's about ethics in software engineering
+Mike Curtis-Rouse: Falling Faster Straight Down, or How Taking 3D Printing to New Heights
+Jake Davis & Iain Softley: Iain Softley in conversation with Jake Davis
+Henry Cooke: Things That Go Bump On The Net
+Tim Pritlove: The secret powers of podcasting
+Chemical Adam: Adventures in somatosensory music, body hacking & beyond
+Maximus Ironthumper & Mark Tanner: Project Awesome - Two Men, A Pipe Organ and A Russian Army Lorry.
+Tony Abbey: The 1949 EDSAC Computer Rebuild
+Andreas Korn: Hunting for (un)known particles
+Mitch Altman: ArduTouch music synthesizer -- music generation for newbies
+Matt Denton: Animatronics and robots in the movies
+Terence Eden: The (Connected) House of Horrors
+Kev Sheldrake: Taking Over The World with Scratch
+Deleted video
+Sarah Spencer: The Knitting Network Printer
+Kat Joyce: Who watches the watchers in Web PKI?
+Rob Miles: AI Safety
+Robert Karpinski: Life after Robot Wars
+Alec Muffett: Why and How you should start using Onion Networking
+Rehana Al-Soltane & Ed Hill: BrightSign: Gesture Recognition and Talking Gloves
+g5pw: Bootstrapping a hackerspace
+Michael Turner: Orbs Game Explained
+Sophie Lovejoy: How to dispose of a body: a dead interesting talk
+Edye Hoffmann: Do you really want a robot in your old age?
+Kate Tolley: The Art And Science Of The Motivational Corporate Anthem
+Alastair Reid: What makes processors fail - and how to prevent it
+Michelle Strickland: Spider Silk: Hacking Nature's Strongest Fibre
+John Dingley: 10 years building self-balancing ride on robots
+John Dalziel: A brief history of Leap Seconds
+Dominic Morrow: Bricolage: a makers podcast LIVE
+Dr. James Beeley: Designing Custom Chips and Sensors and Lab-in-a-Pill Technology
+Helen Leigh: Making the Mini.Mu, a sewable, codeable instrument for kids
+Alia Sheikh: How To Make a Movie at EMF
+Sarah Wiseman: Why does 🍕mean "I love you" – The ways that we use and misuse emoji
+Norman Casagrande: WaveNet, what's behind Google's voice
+David Mills: The use and abuse of CT scanners
+Chris Wright: The Future of Invention
+Andrew Jenner: Adventures in retrocomputing
+Tim Stoddard: Developing Games for the Casino/Gaming Industry
+Kate Bolin: The Story of Elmer McCurdy
+Dr Danny Webster : An Introduction to Software-Defined Radio (SDR)
+Rick Amos: Building a robot with MATLAB and Simulink
+Ben Proctor: How the Internet has changed emergencies
+Rachel Konichiwakitty: Lesson 101: Making Fashion Tech & Human Organs
+Matthew Ireland: Computational Creativity
+Marek Ventur: The making of TiLDA Mk4
+Ian B Dunne: Science Magic...Magic Science
+Gavan Fantom: Making music in the free and open-source world
+Patrick O'Connor: Numbers vs Resources: The History of Banking
+Genevieve Smith-Nunes: The Singularity: dance, digital ethics and datavis
+Geo Meadows: Beehive monitor based on Raspberry Pi
+Andrejus Kostarevas: Attacking Websites for Educational Purposes Only
+Poppy and Jan Mosbacher: How to Use Digital Tools to Make Clothes and Shoes
+Jonty Wareing: Closing Ceremony
+Laura James: From making to maintaining
+Florence Schechter: Why The World Needs A Vagina Museum
+Jessica Rose: Burnout and Your Meat Computer
+Tudor Tarlev: Document & quantify informal learning
+James Capper: WHY DID YOU MAKE THAT?
+Deleted video
+merlin: Open-Source Modular Tech Jewelry
+Simon Bedford: Using Machine Learning for Humanitarian AimsDan
+Deleted video
+Catherine Flick: Codes of Ethics for tech: the hip old thing
+Lightning Talks: Lightning Talks Sunday
+Jonty Wareing: Opening Ceremony
+mc.fly: Why automated number plate recognition systems suck
+Ben Fitzgerald: 101 Hacks for Late Soviet Water Towers
+Scary Boots: Richard Feynman: Dick.
+Chromatouch: Gravity Synth
+Kate Devlin: Sex Robots! The Truth Behind the Headlines
+Deleted video
+Michael Dales: From Idiot to Imposter: how to get started in a new field
+Ruth Amos: 5 things we can all learn from Flaming Pianos
+Andy Vine: How to Climb a Mountain.
+James Harrison: Shooting Lasers at the Countryside: An Introduction to Mobile Mapping
+Emily Mayhew: The Battle of Mosul: what does it mean to live in a post-Geneva Convention world
+Nicolas Angelides: Dark-Dark Dark-Matter Matter-Matter
+Matthew Garrett: Everything you never wanted to know about smart lightbulbs
+Giles Greenway: Never Mind the Molluscs: (Mis)Adventures in "Aggro-Rhythmic Composition"
+PJ Evans: Boiling Nemo - Make your own Internet of Things
+Dan Smith & Laura Hyatt: Car Hacking - Back to the future 1970’s style Part II
+Chris Taylor: Antiparticles and Geiger counters
+J. Hawkes-Reed: Out daemons, out! Exploring depression through sweary automata.
+Gianluca Memoli: Shaping sound
+Lightning Talks: Lightning Talks Saturday
+Kev Sheldrake: Cracking HiTag2 Crypto
+Charvy Narain: Why volunteers are unsung heroes of science
+Antonia Forster: LGBTQIA+ Behaviour in Animals
+Mustafa Al-Bassam and Jake Davis: Banned from encrypting
+Matthew Hodgson: Power to the people: liberating online communication with Matrix.org
+John Thurmond: A Failure Enthusiast
+GeekyTim: Pi Wars - Challenging kids (and adults) to build competitive robots
