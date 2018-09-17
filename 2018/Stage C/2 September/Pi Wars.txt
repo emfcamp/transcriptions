@@ -1,0 +1,215 @@
+
+
+>> Good afternoon, folks. Thank you for coming here to see making Pi Wars. Just before we start, there are two announcements. One is that the talk immediately preceding this one was postponed, because the person giving the talk was having trouble getting here, and that will happen at 6:20 this evening. And the second is that we're looking for volunteers to help with video mixing, audio mixing, or heralding, which is standing up here and introducing the speakers and taking questions. So if you want to do that, you can go to the website, to the volunteer tent, or to the green room. And now it's a pleasure to hand it over.
+
+TIM: Hi. I'm GeekyTim. This is Recantha. Also known as Mike and Tim. And I'll let you guess which is which. We're gonna talk about making of Pi Wars.
+
+>> Hopefully if we've got sound on the laptop, this will work.
+
+>> Do we have sound on the laptop, by the way?
+
+>> I pressed the wrong button. Have we got sound on the laptop?
+
+>> Sorry for the delay. Bear with us! With any luck, this will work. If it doesn't, I'll talk over it. No, it doesn't.
+
+>> I'll make it work, because I like the music!
+
+>> It's a good job we tested this beforehand, isn't it?
+
+>> Yeah.
+
+>> Okay. We want sound settings. Don't we? And if this doesn't work, we'll talk over it.
+
+(dramatic music)
+
+>> Okay! So Mike and I started fairly near the beginning when the Raspberry Pi came out, we started Cam Jam, which is the Cambridge Raspberry Jam. We're both IT people. I'm a performance architect. I work in the performance of computer systems. Mike's a web developer. And the Raspberry Pi came out, and we just loved the idea of it, and wanted to get people interested in it. Had young kids at the time, and I wanted them to be interested in it. They're not, but anyway. Mike?
+
+>> Yeah, so we set up Cam Jam, and soon afterwards, we started getting bigger, in terms of the jam. We moved to a new venue and started getting about 180 people each time. Tim said to me: We need to do something else! So he said to me: Do you like Robot Wars? And I said of course I like Robot Wars!
+
+>> Yeah.
+
+>> And he said: Could we do something like that with the Raspberry Pi?
+
+>> However, because people are gonna make... We're aiming mainly at children, but also adults -- we didn't want them to be destructive. So we had to come up with a different format. And so we started thinking about it. Getting ourselves some experience in the Raspberry Pi, we started doing some workshops at the Jams. And I knew absolutely nothing about electronics at the time. So I decided... Well, we decided to do some workshops, and then we were asked to actually bring out the EduKits. So we did! We came up with EduKit1. EduKit2, which is for the sensors, and EduKit3, which is our robot. We don't actually make any money out of this. This is all simply to fund the events we run, which is Pi Wars and Cam Jam. So yeah. We put round the idea of Pi Wars -- we didn't have the name at the time -- and people said yeah, we'd like to do it. We thought okay. We'll put our money where our mouth is, and we would run one.
+
+>> So we hit 2014. Now, jams at that time were running at the Institute of Astronomy in Cambridge. We didn't think we would muck about trying to find a different venue, so we thought we would stay there and try to do something small-scale to start with. So we came up with the idea of seven challenge courses.
+
+>> It was seven. And the seven was because we went round the venue, looked round, and said... Right, we could fit one there, one there, one there. It came out to seven.
+
+>> And then we thought... Oh, we've got seven courses. We've actually got to build the things now. So Tim threw his collection of traditional tools at it.
+
+>> Yes.
+
+>> And we came up with the following courses. We started out with a line follower.
+
+>> I mean, line follower is the typical robot event -- autonomous event that people start with. Simply use a detect for light and dark and follow the dark!
+
+>> And we wanted a mixture of autonomous and remote controlled challenges. Because we wanted people to be able to create a robot that could do both types of challenges. Another one we came up with was called proximity alert, where you used a distance sensor, and you had to get as close to the wall as possible. And we thought... Okay. People will get sort of 10 centimeters, and then our judge said... Okay. I'll bring my digital calipers along.
+
+>> And they were needed.
+
+>> And they were needed.
+
+>> That's another autonomous event, by the way. Yep.
+
+>> We had robot golf, which was a remote controlled one. And we had the straight line speed test, which has stood the test of time. We're still doing it.
+
+>> That was either autonomous or remote controlled. You got more points if you did it autonomously. So it's a 7-meter track.
+
+>> The three point turn was an autonomous event. You had to basically drive up to the lines, back up, turn, and return to the same square. So if you can see it on the right hand side, there's a little green box that you had to return to.
+
+>> So this was to test maneuverability and controllability of the robot. And then we had the only... Hopefully less destructive... Robot on robot event, which was Sumo. Which was a bit of a miscalculation at the time, because the first one was an enormous Playmobile pirate ship. Against the smallest robot in the competition. By Brian.
+
+>> We also wanted to have an obstacle course in there, just to have additional challenges. This was remote controlled as well. So we just had various mini-obstacles that people would be able to get over.
+
+>> And if anybody here remembers the first season of Robot Wars, the one with Jeremy Clarkson, that had the element of an obstacle course at the beginning of it.
+
+>> Then we came to our first mistake.
+
+>> Ooh, yes. That was horrible. I mean, being a performance engineer, I like things to work well. And to look good. And to have good quality. So I thought... Yeah, we'll have code quality. I then spent all day... I mean all day... On the day... Missing all the events and actually looking at everybody's code. And giving them a mark on various categories. And that was a big mistake. Big mistake.
+
+>> We also then made our second mistake, which was to leave all the totting up of the scores until the prize giving. Which ran to about two and a half hours, I seem to remember.
+
+>> It was all manual then.
+
+>> Yeah. We managed to pick up some sponsors, and we had prizes, and that was terrific. Because we reached out to the Pi business community and said: Can we have some free stuff? And a lot of them said yes!
+
+>> So at the end of that event, we said: Would you want to do another one? Hoping they would say no, and a big roar went up. Yes, yes, you've got to have another one! So yeah. Okay. So that was December 2014. We decided to do the next one in December 2015. And by that time, Mike and I had run the third birthday party for the Raspberry Pi Foundation. And we had used the William Gates building, and got to know the people there. It's a much better building, much bigger for what we needed, and they said yes, we can run Pi Wars there.
+
+>> By this time, Tim had acquired a 3D printer, which meant we could do a lot more intricate stuff with the courses. We also realized that the courses looked pretty dull the first year, so we just added a lot of paint.
+
+>> A lot of paint.
+
+>> We changed some challenges. We kept others. We kept the obstacle course, but painted it and changed the challenges. We had skittles.
+
+>> Now, that was pretty much how we expected skittles to go, until this robot came along. That was spinning something like 70 miles an hour. Apparently they had to put Kevlar string around the tires of the spiny thing. Because they kept flying apart. And that actually got us... Gave us our first glimpse of how imaginative and how much engineering goes into these tiny robots for this event. Just exactly what we were hoping.
+
+>> Then we had our line follower course. We thought... This will be fantastic. We'll get it printed on vinyl.
+
+>> It doesn't work!
+
+>> It sort of worked, until you had a wide array of line followers, and then it picked up all the green on the side. This is one of our competitors, Dave Pride, trying to get his robot just to follow a line. We kept the three-point turn, because it actually worked quite well. This is metabot, showing off. The cheers went on for some time. We also changed our robots versus robots challenge to something called Pi Noon. Which you may have seen about.
+
+(rocking music)
+
+That was obnoxious music.
+
+>> And out of that has come Micro Pi Noon, which was run by Brian here at a few other makespaces and jams. The reason for Pi Noon is that the Sumo, big robot, little robot, don't fight well together. We wanted something less destructive and a little more even. So they've basically got a balloon on them and a pin, and they've got to pop it.
+
+>> And this year Brian's brought along his Mega Pi Noon, which is significantly bigger.
+
+>> And Brian wants to say something right at the end of the talk, because there's a competition going on.
+
+>> Oh, yes, we skipped a year, because we realized that December was just about the worst time you could possibly pick for schools.
+
+>> One of the main reasons for doing it and one of the main reasons for the Raspberry Pi is for schools. For education. And we weren't getting as many schools in as we wanted. We had one or two. Not brilliant. So we looked at the dates and said... Well, actually, from September to December... Not enough time. It's not enough time for most people. So yeah. We changed it to April. So hence why 2016 wasn't there. 2017. And we had so many applications, we were actually able to split it into two days. Saturday was the schools. And Sunday was beginners, intermediate, and advanced robots.
+
+Previous years -- the first year we had done it on cost. Split the robots on cost. You got those below 70 pounds, 75 pounds, and above 75 pounds. That was a bit hard to judge. The second year was on size. And it was okay. But looking at the robots and the competitors, it was clear that a different system was needed. And we came up with this.
+
+>> By this time, Tim had acquired his shed. Now, when I say shed, it's not quite accurate. It's a hut. It's a log cabin. And he had also acquired -- just snuck into the corner -- a laser cutter.
+
+>> Yeah. I had to buy the Hut 8, as I call it, because of the laser cutter. It was so big, it couldn't fit anywhere else. So that's where I do a lot of my work. So 2017, we did a lot of laser cutting.
+
+>> But he still kept going on the traditional tools.
+
+>> Yep, because there's just no substitute.
+
+>> We decided just to change the challenges again, and we had the minimal maze, which was autonomous.
+
+>> Now, that is one of the only ones that got round complete. It is actually much harder than you expect to do that. Because you don't know the surface when you start off. Yes, we got the colors, but... Yeah. It was hard.
+
+>> We also added a challenge called slightly deranged golf. Which we actually got some Astroturf for, which was quite fun.
+
+>> Yes, and that's also the course that I broke my ribs on, by falling over on it. 
+
+>> So you could see all it was was a horseshoe, but you got penalties for going in the sand and the water, and you had to get past this windmill at the end. We kept the line follower, based on a fairly reasonable design, we thought.
+
+>> Yeah. And we got it specially printed. And we thought... Well, okay. We'll go for matte. See whether that works. And no, it didn't again.
+
+>> Because we changed venues, we were able to have an obstacle course that was much larger. So we doubled the size.
+
+>> And changed all the obstacles. We inherited -- well, not inherited. We had made for us a turntable by Pi Borg. Which is fantastic.
+
+>> Many thanks to them.
+
+>> And we also acquired a wonderful head judge.
+
+>> Dr. Lucy Rogers. This was actually... She had started Robot Wars by then. And she kindly said yes to... When we asked her to judge for us, we got to know her in the mean time, because we were doing some other events and got to know her. So it was wonderful to get her along as the head judge.
+
+>> We managed to pick up even more sponsors, and we needed them, because we had the two days to cover for prizes and that sort of thing, and we had trophies made, 3D printed by Tim, and they were terribly cute in person. They were mind bogglingly cute. And then we came to... Not last year. This year! This year!
+
+>> Yes, this year. 2018. So that's the fourth year we've been doing it.
+
+>> We changed out the challenges again. Just a few of them. And we included the duck shoot. And we thought... Okay. We'll provide balls for people to roll towards the targets. But what if they could add an attachment to better shoot the targets? And that's what some people did, and Nerf guns were really popular.
+
+>> And very good. We wanted... Each year, we do try and change the challenges. But we saw that the robots were getting much better. So we wanted to challenge people even more. So we came up with the idea of Somewhere Over the Rainbow. Basically you have four colored balls sitting in the corner of a black course. And the robots have to identify the balls, approach them, stop, and then go to the next one. In the right order.
+
+>> Some had more success than others, it's fair to say. This one got very, very lucky. This was one of the best runs of the day. Slightly sped up.
+
+>> And yeah. That's open CV, most of them are using. Not all of them. A lot of them. But yeah, an extra challenge. And we hope to continue that way. Redesigning the obstacle course. No, we didn't actually put those lines around there. There was one competitor last year who decided that he wanted to do everything autonomously. Not just the autonomous events. So he followed that line. And I think he did pretty well, didn't he?
+
+>> I can't remember actually how well he did on this, but it was quite interesting watching them put the line down and getting closer and closer to the time where they actually had to go. We had some help with this one this year. We had a block moving puzzle challenge that Brian kindly did for us. I think this is Billy doing this one, isn't it?
+
+>> It is. It's the one that's running on the floor here.
+
+>> Brian's son Billy piloting the robot down the course.
+
+>> And you notice that rock paper scissors there. We added it the year before, thinking... I can't think of what to put in there. Let's put something simple. It wasn't. A lot of robots got stuck on the paper! Surprisingly.
+
+>> For Pi Noon, we added a pyramid in the center, with some pins. Just to make it extra difficult. And we also thought... With pins, we really ought to put walls on it. We didn't the first year. And then we suddenly thought... Actually...
+
+>> No one got hurt, though!
+
+>> And also, because we had this autonomous robot that was doing everything autonomously, we thought... The chances are, it's just gonna go... Straight off in the distance.
+
+>> And also, it helped him not get confused by the color. So... We put that on for him.
+
+>> This was the final. We added three balloons this time. Just to make it slightly more difficult for everybody. And now we come to next year.
+
+>> Next year! Yes! We've crazily said we'll do another one. It was about two months after the last one. We thought... No, no, never again, never again. But... Yyyyeah... Yeah, we're doing it again. So 2019. Next year is the anniversary of the first landing on the moon. And so we're gonna celebrate that with a theme this year. So it's a space theme, basically. We've got the Hubble Telescope Nebula challenge, over the rainbow, asteroid field, the maze, totally different from last year's, blast off, which is the straight-ish line speed course.
+
+>> Very ish.
+
+>> Very ish, yes. Pi Noon again. Space invaders? Are we saying which one that is? That's basically duck shoot, but it's not ducks this time. Because you don't have ducks in space. Not often, anyway. Spirit of curiosity. That is going to be where you drive from one side of the course, pick up some samples, and drive it back to the base. So that you can deliver them back to the earth.
+
+>> Over a variety of terrain, which we've yet to build. So that could be interesting.
+
+>> And the final one is the Apollo 13 obstacle course.
+
+>> Which will again feature some new obstacles. Some existing ones. And we've got ideas on that.
+
+>> Haven't built them yet.
+
+>> So 2019 will be the 30th and 31st of March in Cambridge. The closing date for applications -- because everybody has to apply in order to get into the competition, and then we look at how many we've got and try to figure out which ones have got the best chance of succeeding and actually getting to the competition.
+
+>> Last year, we had about 150 applications for 76 places. Which meant we did have to actually disappoint a lot of teams. Disappoint even some teams that have competed previously. It is a shame, but we have to continue to bring in new teams at the bottom, doing the beginners. And new schools. Simply because we want to spread it. We don't want to just keep it to the same people every time. So we do need you to apply. Need you to think about applying. You've got until... As you can see there... Until the end of March to actually...
+
+>> 23rd of September.
+
+>> Not to apply, but to actually compete. So you've got a while to make it. But apply before that. You don't have to have your design now. You just have to say what you're thinking of doing, how you're gonna do it, your team makeup, that sort of thing. Whether you're a beginner, intermediate, advanced, or a school.
+
+>> And we've committed to reading absolutely everything on your application form. Every single one. No matter how long it is.
+
+>> And yeah, the more information the better.
+
+>> There may be beer involved on that night.
+
+>> Just a little.
+
+>> So that's it for the presentation, really. If you want to find out more, come and speak to us afterwards. We've got some leaflets to give you, just to remind you. Or go to the website, which is Pi Wars.org. Have we got time for any questions? Has anybody got any questions? No? No. In that case... Oh, we have got one. We have got one.
+
+>> Hi. I got a lot of questions. I normally mentor kids to learn about robotics and stuff. So what about... I mean, the kids who are going to enter Pi Wars, for example... What about mentoring?
+
+>> Yes, on the publication form, there's a tick box for: Yes, I need some mentoring. And yes, I can be a mentor. And then it's a case of matching up -- trying to match up geographically where you can. Whereabouts are you from? Cambridge? Excellent. In that case, it shouldn't be a problem. Because we have quite a few from Cambridge.
+
+>> Any more? Was there one over here? No? Just waving? Okay. Okay, then. I think Brian wanted to say something. He's running the Mega Pi Noon today with some very large robots that he's built.
+
+>> So... Mega Pi Noon is over where the blacksmith is. It's free to play, and we'll be starting at about 3:30. Welcome to come along and have a go at driving some large robots. So thank you.
+
+(applause)
+
+>> Thank you very much!
+
+>> Well, thank you very much for that great presentation. There'll be another talk in ten minutes here.
+
+
